@@ -9,9 +9,9 @@
 					
 ## **Решение:**					
 Представлено в файлах:
-1. ццц
-2. ццц
-3. 
+1. [БД excel].(data-analysis-projects\museum-db-practice\БД Музей Лесных Е.В.xlsx)
+2. [БД drawio].(data-analysis-projects\museum-db-practice\БД Музей.drawio.jpg)
+3. [Коллаж посещения музея].(data-analysis-projects\museum-db-practice\Коллаж посещ-е музея.jpg) 
 
 ## **Сценарий использования базы данных музея:**
 
