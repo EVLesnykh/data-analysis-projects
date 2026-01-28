@@ -48,7 +48,7 @@
 Презентация к дипломному проекту:<br>
 [[Презентация к дипломному проекту](My_Project_DE/Presentation_Lesnykh_EV.pptx)](https://github.com/EVLesnykh/My_Project_DE/blob/main/Presentation_Lesnykh_EV.pptx)
 
-## Навыки, которые демонстрируются
+**Навыки, которые демонстрируются**<br>
 - Проектирование реляционных баз данных
 - Разработка SQL-скриптов
 - Создание ER-диаграмм в MySQL Workbench
