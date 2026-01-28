@@ -46,7 +46,7 @@
 П.4. Скрипт на создание триггеров, представлений, процедур, а также создание пользователей и назначение им привилегий к БД «tps_db»  (формат sql)<br>
 
 Презентация к дипломному проекту:<br>
-[[Презентация к дипломному проекту](My_Project_DE/Presentation_Lesnykh_EV.pptx)]
+[[Презентация к дипломному проекту](My_Project_DE/Presentation_Lesnykh_EV.pptx)]]
 (https://github.com/EVLesnykh/data-analysis-projects/blob/main/block-thermal-power-plant-db/Presentation_Lesnykh_EV.pptx)
 
 **Навыки, которые демонстрируются**<br>
