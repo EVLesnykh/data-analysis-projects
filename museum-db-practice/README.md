@@ -14,7 +14,7 @@
 					
 ## **Решение:**					
 Представлено в файлах:
-1. [[БД excel].(data-analysis-projects\museum-db-practice\БД Музей Лесных Е.В.xlsx)]
+1. [[БД excel].(data-analysis-projects\museum-db-practice\БД Музей Лесных Е.В.xlsx)]https://github.com/EVLesnykh/data-analysis-projects/blob/main/museum-db-practice/%D0%91%D0%94%20%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%20%D0%9B%D0%B5%D1%81%D0%BD%D1%8B%D1%85%20%D0%95.%D0%92.xlsx
 2. [[БД drawio].(data-analysis-projects\museum-db-practice\БД Музей.drawio.jpg)]
 3. [[Коллаж посещения музея].(data-analysis-projects\museum-db-practice\Коллаж посещ-е музея.jpg)] 
 
