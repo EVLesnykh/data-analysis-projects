@@ -25,18 +25,18 @@
 6. Разработка API-сервиса;
 7. Заключение.
 
-**Структура проекта**
-house-price-prediction-ml-service/
-│
-├── house_price_prediction_ml_service.ipynb   # EDA, feature engineering, эксперименты
-├── df_cleaned.csv                 # подготовленный датасет
-│
-├── train_pipeline.py              # обучение и сохранение ML pipeline
-├── pipeline.pkl                   # сохранённый обученный pipeline
-│
-├── server_ml.py                   # ML API (сервер)
-├── client_ml.py                   # клиент для запросов к API
-│
+**Структура проекта**<br>
+house-price-prediction-ml-service/<br>
+│<br>
+├── house_price_prediction_ml_service.ipynb   # EDA, feature engineering, эксперименты<br>
+├── df_cleaned.csv                 # подготовленный датасет<br>
+│<br>
+├── train_pipeline.py              # обучение и сохранение ML pipeline<br>
+├── pipeline.pkl                   # сохранённый обученный pipeline<br>
+│<br>
+├── server_ml.py                   # ML API (сервер)<br>
+├── client_ml.py                   # клиент для запросов к API<br>
+│<br>
 └── readme.md
 
 **Используемые технологии и инструменты**
