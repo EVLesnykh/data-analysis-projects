@@ -1,5 +1,4 @@
-# A/B Testing & Product Analytics  
-*(Final Specialization Case)*
+# Продуктовая аналитика лендинга школы английского языка: A/B-тестирование
 
 ## Описание проекта
 Итоговая аналитическая работа по блоку **Product Analytics & A/B Testing**.  

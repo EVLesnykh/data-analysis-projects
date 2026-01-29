@@ -1,5 +1,4 @@
-# HeadHunter Resume Salary Analysis  
-*(Data Preparation & EDA for Salary Prediction)*
+# Проект: Анализ резюме HeadHunter и подготовка данных для предсказания зарплаты  
 
 ## Описание проекта
 Проект посвящён анализу и подготовке данных резюме с сайта **HeadHunter (hh.ru)**  

@@ -1,6 +1,4 @@
-# Marketing Analytics Pilot Project  
-
-*(GA + CRM, ROMI, Attribution, Dashboard)*
+# Проект: Маркетинговая аналитика автодилера: оценка эффективности каналов и ROMI  
 
 ## Описание проекта
 
